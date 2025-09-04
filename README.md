@@ -142,12 +142,3 @@ This means you can stop the script anytime and restart later—it will pick up f
 ✅ Saved image: 1.jpg
 ```
 
-***
-
-This way, you and anyone using it will know **exactly how to set up and run it**.
-
-***
-
-👉 Do you want me to also create a **short "Quick Start" section** (3 steps only) at the top of the README for easy use?
-
-This tool opens Google Images in your browser and downloads URLs you manually select. Respect copyright and usage terms of any images you save.
