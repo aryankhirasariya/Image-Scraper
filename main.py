@@ -9,7 +9,7 @@ import time
 import urllib.parse
 
 # File paths
-excel_file = "aryan 1000.xlsx"   # Your Excel file name
+excel_file = "excel.xlsx"   # Your Excel file name
 save_dir = "Downloaded_Images"
 progress_file = "last_done.txt"
 
@@ -241,5 +241,6 @@ except KeyboardInterrupt:
     with open(progress_file, "w") as f:
         f.write(str(row_num))
     print(f"💾 Progress saved at row {row_num}")
+
 
 print("\n🏁 Process completed!")
