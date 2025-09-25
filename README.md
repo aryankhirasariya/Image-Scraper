@@ -1,10 +1,3 @@
-# Image-Scraper
-Image scraper using python
-Got it 👍 — you want a proper **README file text** that explains everything step by step about how to set up and run your Python script.  
-Here’s a ready-to-use `README.md` draft for your project:
-
-***
-
 # 📸 College Campus Image Downloader
 
 This project is a **semi-automatic image downloader** that helps you collect campus photos for a list of colleges stored in an Excel file.  
