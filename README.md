@@ -23,7 +23,7 @@ The script will:
 
 ```
 project/
-│── aryan 1000.xlsx        # Excel file with IDs and college names
+│── your file.xlsx        # Excel file with IDs and college names
 │── script.py              # Your Python script (this code)
 │── Downloaded_Images/     # Folder where images are saved
 │── last_done.txt          # Progress file
